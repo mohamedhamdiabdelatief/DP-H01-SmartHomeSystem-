@@ -1,0 +1,58 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=DP S02
+*Date=23:11:40
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;78.74;-63.6238;180;Bottom;R9
+2;;THT;64.77;-40.7638;90;Bottom;S2
+3;;;67.5031;-37.9544;0;Bottom;TXT3
+4;;;91.4267;-44.7413;180;Bottom;U2
+5;;THT;49.657;-93.0879;90;Bottom;OUT5
+6;;THT;34.163;-8.75987;-90;Bottom;OUT9
+7;;THT;92.71;-84.32;0;Bottom;SW3
+8;;THT;7.366;-51.0108;0;Bottom;IN8
+9;1.25 – 36 V;to220-adj;92.71;-55.6863;180;Bottom;LM319
+10;;THT;79.883;-8.75987;-90;Bottom;OUT4
+11;12V;THT;35.26;-24.6037;180;Bottom;RELAY6
+12;220;THT;92.71;-64.8938;90;Bottom;R8
+13;12V;THT;58.12;-24.6037;180;Bottom;RELAY4
+14;;dip;58.42;-57.2738;90;Bottom;U1
+15;;THT;7.366;-81.4908;0;Bottom;IN5
+16;;THT;7.366;-91.6508;0;Bottom;IN4
+17;;;62.1702;-37.9188;0;Bottom;TXT3
+18;;THT;57.023;-8.75987;-90;Bottom;OUT6
+19;12V;THT;25.7;-77.9438;-1.59028e-14;Bottom;RELAY8
+20;;cap-pth-small2;69.85;-72.5138;90;Bottom;C2
+21;;;64.6606;-37.9737;0;Bottom;TXT4
+22;;THT;45.72;-42.0338;90;Bottom;DRIVER3
+23;;THT;25.4;-42.0338;90;Bottom;DRIVER4
+24;;THT;11.303;-8.75987;-90;Bottom;OUT8
+25;220;THT;95.25;-64.8938;90;Bottom;R7
+26;;THT;87.63;-82.6738;0;Bottom;FUSE3
+27;;;76.7601;-77.7021;0;Bottom;TXT7
+28;;300 mil [THT];91.4146;-76.3238;0;Bottom;D8
+29;;THT;7.366;-71.3308;0;Bottom;IN6
+30;12V;THT;51.1;-77.2438;-1.59028e-14;Bottom;RELAY9
+31;;300 mil [THT];91.4146;-72.4667;0;Bottom;D7
+32;;;95.7023;-96.6671;90;Bottom;TXT1
+33;12V;THT;12.4;-24.6037;180;Bottom;RELAY5
+34;;cap-pth-small2;64.77;-72.5138;90;Bottom;C1
+35;;THT;7.366;-40.8508;0;Bottom;IN3
+36;;THT;7.366;-61.1708;0;Bottom;IN7
+37;;;72.0222;-96.7387;0;Bottom;TXT5
+38;;THT;93.726;-94.2707;0;Bottom;IN9
+39;;;95.4485;-91.581;90;Bottom;TXT2
+40;;THT;24.257;-93.0879;90;Bottom;OUT7
+41;12V;THT;80.9801;-24.6037;180;Bottom;RELAY7
+42;;;71.9836;-91.8764;0;Bottom;TXT6
+43;;hc49us;67.31;-66.1638;0;Bottom;Y1
